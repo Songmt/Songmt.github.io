@@ -1,0 +1,45 @@
+html {
+	font-size: 30px;	
+	font-family: 'Liu Jian Mao Cao', cursive;
+	background-color:#00539F;
+}
+
+body {
+	width:800px;
+	margin:0 auto;
+	background-color:#FF9500;
+	padding:0 20px 20px 20px;
+	border: 5px solid black;
+}
+
+h1 {
+	margin: 0;
+	padding: 20px 0;
+	color: #00539F;
+	text-shadow: 3px 3px 1px black;
+	font-size: 60px;
+	text-align: center;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 10px;
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
+
+.ex1{
+	margin: auto;
+	background: gold;
+	width: 66%;
+}
+
+.ex2{
+	margin: 20px 0px 0 -20px;
+	background: gold;
+	width: 66%;
+}
